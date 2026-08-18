@@ -127,7 +127,7 @@ After pushing this repository to GitHub:
 
 Add the live URL here after deployment:
 
-`https://<YOUR-APP>.streamlit.app`
+`https://bipul-ml-assignment-2.streamlit.app/`
 
 ## 12. BITS Virtual Lab Requirement
 Run the training notebook or `train.py` in the BITS Virtual Lab and capture **one screenshot** showing successful execution. The screenshot is submitted in the final PDF as required by the assignment.
