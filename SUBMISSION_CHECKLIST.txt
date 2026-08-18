@@ -1,0 +1,24 @@
+ML Assignment 2 — GitHub/Implementation Checklist
+
+Before pushing:
+[ ] Open train_models.ipynb and understand the workflow.
+[ ] Run the notebook once in BITS Virtual Lab and take ONE screenshot.
+[ ] Run: python train.py
+[ ] Run locally: streamlit run app.py
+[ ] Upload test_data.csv in the app and test every model.
+[ ] Replace GitHub placeholder in README.md after creating the repository.
+[ ] Add your live Streamlit URL to README.md after deployment.
+[ ] Make several meaningful Git commits instead of one bulk upload.
+
+GitHub must contain:
+[ ] Complete source code
+[ ] requirements.txt
+[ ] README.md
+[ ] test_data.csv
+[ ] model files / model implementation
+
+Final PDF order:
+1. GitHub repository link
+2. Live Streamlit app link
+3. BITS Virtual Lab execution screenshot
+4. README content
