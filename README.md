@@ -22,7 +22,7 @@ The repository includes `breast_cancer_wisconsin_diagnostic.csv`, a reproducible
 ## 3. GitHub Repository Link
 Replace this placeholder after pushing the repository:
 
-`https://github.com/<YOUR_USERNAME>/<YOUR_REPOSITORY>](https://github.com/bipulshahi/ml-assignment-2-bits`
+`https://github.com/bipulshahi/ml-assignment-2-bits`
 
 ## 4. Models Used
 The assignment text says “all 6 models” but explicitly lists five algorithms. To avoid under-submission, this project implements all five named algorithms **plus SVM as an additional sixth model**:
