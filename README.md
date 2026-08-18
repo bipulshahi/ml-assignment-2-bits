@@ -20,8 +20,6 @@ This project predicts whether a breast mass is **malignant (1)** or **benign (0)
 The repository includes `breast_cancer_wisconsin_diagnostic.csv`, a reproducible CSV copy generated from scikit-learn's packaged version of the UCI dataset.
 
 ## 3. GitHub Repository Link
-Replace this placeholder after pushing the repository:
-
 `https://github.com/bipulshahi/ml-assignment-2-bits`
 
 ## 4. Models Used
@@ -116,3 +114,9 @@ Then:
 3. Review Accuracy, AUC, Precision, Recall, F1 and MCC.
 4. Review the confusion matrix and classification report.
 5. Optionally download predictions.
+
+## 11. Live Streamlit Application
+
+The deployed application is available at:
+
+https://bipul-ml-assignment-2.streamlit.app/
