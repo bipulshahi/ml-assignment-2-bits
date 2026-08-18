@@ -116,28 +116,3 @@ Then:
 3. Review Accuracy, AUC, Precision, Recall, F1 and MCC.
 4. Review the confusion matrix and classification report.
 5. Optionally download predictions.
-
-## 11. Streamlit Community Cloud
-After pushing this repository to GitHub:
-1. Open Streamlit Community Cloud.
-2. Create a new app.
-3. Select this repository and the `main` branch.
-4. Set the entry point to `app.py`.
-5. Deploy.
-
-Add the live URL here after deployment:
-
-`https://bipul-ml-assignment-2.streamlit.app/`
-
-## 12. BITS Virtual Lab Requirement
-Run the training notebook or `train.py` in the BITS Virtual Lab and capture **one screenshot** showing successful execution. The screenshot is submitted in the final PDF as required by the assignment.
-
-## 13. Final Submission PDF
-The assignment requires a **single PDF**, maintaining this order:
-1. Clickable GitHub repository link
-2. Clickable live Streamlit app link
-3. BITS Virtual Lab execution screenshot
-4. README content
-
-## 14. Academic Integrity
-Use this repository as your own working project: review the code, understand each step, make your own Git commits, and customize the README/UI before submission.
